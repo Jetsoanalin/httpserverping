@@ -14,7 +14,7 @@ HOW TO START SERVER:
 var http = require('http');
 
 // define the IP and port number
-var localIP = "localhost"; // 127.0.0.1 is used when running the server locally
+var localIP = "45.33.73.236"; // 127.0.0.1 is used when running the server locally
 var port = 8080; // port to run webserver on
 
 function sayHello(req, res) {
